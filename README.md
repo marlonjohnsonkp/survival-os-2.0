@@ -31,6 +31,8 @@ For Software:
 - Framer Motion, Lucide React, and Mongoose
 - npm, GitHub, and Vercel
 
+project link - https://college-survival-os.vercel.app/
+
 ### Implementation
 
 #### Installation
@@ -38,4 +40,5 @@ For Software:
 ```bash
 npm install
 
-project link - https://college-survival-os.vercel.app/
+
+
