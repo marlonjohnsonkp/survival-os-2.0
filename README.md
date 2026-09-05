@@ -37,3 +37,5 @@ For Software:
 
 ```bash
 npm install
+
+project link - https://college-survival-os.vercel.app/
